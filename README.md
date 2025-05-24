@@ -1,6 +1,6 @@
 # Object-Communities-in-OCPM
 
-# Object-to-Object (O2O) Relationship Discovery from OCEL using Graph-Based Analysis
+# Object-to-Object (O2O) Relationship-based Object communities Discovery from OCEL using Graph-Based Analysis
 
 This repository provides a complete pipeline for discovering and analyzing Object-to-Object (O2O) relationships from an Object-Centric Event Log (OCEL). The pipeline is divided into three main phases:
 
